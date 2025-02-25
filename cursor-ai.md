@@ -11,6 +11,7 @@ If you're looking for a quick start, one of the courses offers a free introducto
 ---
 
 ## Review of the 6 Best Courses on Cursor AI
+![Image](https://github.com/user-attachments/assets/ae08b0c7-a652-47af-987d-deb49400eb7a)
 
 ### [Cursor Course: FullStack Development with Cursor AI Copilot](https://www.udemy.com/course/cursor-ai-ide/)
 
